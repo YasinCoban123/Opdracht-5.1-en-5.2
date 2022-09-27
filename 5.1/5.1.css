@@ -49,11 +49,37 @@ position: relative;
 top: 600px;
   }
   div img{
-    width: 250px;
+    width: 400px;
     margin-bottom: 50px;
-    margin-top: 700px;
+    margin-top: 10px;
+    margin-left: 400px;
 
   }
 div h2{
   color: white;
+  margin-top: 700px;
+  font-size: 100px;
+  margin-left: 300px;
 }
+footer {
+  width: 100%;
+  background-color:#00a8c7;
+  min-height: 100px;
+  }
+  p{
+  font-size: 20px;
+  }
+  footer p{
+  color: white;
+ margin-left: 400px;
+  }
+  div h3{
+    color: white;
+    margin-top: 700px;
+    font-size: 100px;
+    margin-left: 475px;
+  }
+  div p{
+  font-size: 25px;
+  color: white;
+  }
