@@ -52,7 +52,7 @@ top: 600px;
     width: 400px;
     margin-bottom: 50px;
     margin-top: 10px;
-    margin-left: 400px;
+    margin-left: 00px;
 
   }
 div h2{
@@ -83,3 +83,9 @@ footer {
   font-size: 25px;
   color: white;
   }
+#foto2{
+margin-left: 800px;
+}
+#foto4{
+margin-left: 800px;
+}
